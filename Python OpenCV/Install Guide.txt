@@ -1,0 +1,10 @@
+INSTALL MODULES
+
+1.pip install opencv-contrib-python
+2.pip install opencv-python
+3.pip install times
+4.pip install numpy
+
+OUTPUT VIDEO LINK
+
+https://youtu.be/_i6Ry9M_KCU
